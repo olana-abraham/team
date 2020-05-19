@@ -1,0 +1,23 @@
+body{
+    overflow: hidden;
+    background-color: #c8bfc7;
+}
+.olana-nav-width{
+    width:100%;
+}
+.wid {
+    display: block;
+    width: 25%;
+    height: 50%;
+  }
+.big {
+    padding-top: 100px;
+    padding-bottom: 225px;
+    background-image: url(../images/lav.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.mar {
+    float: right;
+}
