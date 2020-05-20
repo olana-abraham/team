@@ -1,23 +1,42 @@
 body{
-    overflow: hidden;
+    overflow: scroll;
     background-color: #c8bfc7;
+    margin-right: 10px;
+    width: 100%;
 }
 .olana-nav-width{
     width:100%;
 }
 .wid {
-    display: block;
+    display: inline-block;
     width: 25%;
     height: 50%;
   }
 .big {
     padding-top: 100px;
-    padding-bottom: 225px;
+    padding-bottom: 100px;
     background-image: url(../images/lav.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: left;
 }
+
+.font {
+    font-family: 'Sacramento', cursive;
+}
+p {
+    font-family: 'Oswald', sans-serif;
+}.abuv {
+    margin-top: 40px;
+}
+.curs {
+    font-family: 'Sacremento' cursive;
+}
+.format {
+    text-align: justify;
+    text-indent: 50px;
+}
 .mar {
-    float: right;
+    width: 35%;
+
 }
