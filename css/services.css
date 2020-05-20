@@ -7,10 +7,19 @@ body{
 .olana-nav-width{
     width:100%;
 }
+.f-size p {
+    font-size: 20px;
+    line-height: 42px;
+}
 .wid {
-    display: inline-block;
-    width: 25%;
-    height: 50%;
+    background-image: url(../images/insp.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+  }
+  .wid-2 {
+    background-image: url(../images/bck.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
   }
 .big {
     padding-top: 100px;
@@ -20,7 +29,9 @@ body{
     background-repeat: no-repeat;
     background-position: left;
 }
-
+.team-service {
+    height: 300px;
+}
 .font {
     font-family: 'Sacramento', cursive;
 }
@@ -34,9 +45,9 @@ p {
 }
 .format {
     text-align: justify;
-    text-indent: 50px;
+    text-indent: 15px;
 }
 .mar {
-    width: 35%;
+    width: 50%;
 
 }
